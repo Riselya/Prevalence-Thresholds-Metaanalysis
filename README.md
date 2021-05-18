@@ -5,4 +5,3 @@ Data = RDS file. This is a list of 8 phyloseq objects
 Code = R markdown file  
 PDF = R markdown report in PDF format  
 HTML = R markdown report in html format  
-PDF2 = Draft manuscript  
